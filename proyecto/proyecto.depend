@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1457956304 source:c:\users\daniel\desktop\shit\c\proyecto\main.cpp
+	<iostream>
+	<string>
+	"tripleTriad.cpp"
+
+1456000764 source:c:\users\daniel\desktop\shit\c\proyecto\main2.cpp
+	<iostream>
+
+1456851853 source:c:\users\daniel\desktop\shit\c\proyecto\graficos.cpp
+	<stdio.h>
+	<Windows.h>
+	<string.h>
+
+1456001053 source:c:\users\daniel\desktop\shit\c\proyecto\templates.cpp
+	<iostream>
+
+1457969753 c:\users\daniel\desktop\shit\c\proyecto\tripletriad.cpp
+	<stdio.h>
+	<Windows.h>
+	<string.h>
+	<iostream>
+	<list>
+
